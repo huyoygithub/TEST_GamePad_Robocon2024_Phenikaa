@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Robocon 2024</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="kv1">Khu vực 1</string>
+    <string name="chuyen">Chuyển</string>
+    <string name="kv2">Khu vực 2</string>
+    <string name="move_back">move backward\n</string>
+    <string name="move_right">move right</string>
+    <string name="move_left">move left</string>
+    <string name="move_forward">move forward</string>
+    <string name="_180">180</string>
+    <string name="_45">45</string>
+    <string name="connect">connect</string>
+    <string name="connected">Connected</string>
+    <string name="tk13">TK1-3</string>
+    <string name="tk2">TK2</string>
+    <string name="tk46">TK4-6</string>
+    <string name="tk5">TK5</string>
+    <string name="down">down</string>
+    <string name="up">Up</string>
+    <string name="l">L</string>
+    <string name="r">R</string>
+    <string name="mid">Mid</string>
+    <string name="h_t">Hút</string>
+    <string name="n_ng">Nâng</string>
+    <string name="shoot">Shoot</string>
+    <string name="x">X: </string>
+    <string name="y">Y: </string>
+    <string name="direction">Dir: </string>
+    <string name="angle_correction">Angle correction</string>
+    <string name="speed">Speed</string>
+    <string name="raise_gun">Nâng súng </string>
+    <string name="up1">Nâng khung </string>
+    <string name="dang_tay">Dang tay </string>
+    <string name="rotary">Rotary</string>
+
+</resources>

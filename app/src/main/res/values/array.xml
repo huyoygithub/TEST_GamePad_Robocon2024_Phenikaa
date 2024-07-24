@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="angle_str">
+        <item>A0</item>
+        <item>A90</item>
+        <item>A180</item>
+        <item>A270</item>
+    </array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#F2EFE5</color>
+    <color name="yellow">#F9F07A</color>
+    <color name="green">#416D19</color>
+    <color name="orange">#FF9800</color>
+    <color name="green1">#2C7865</color>
+    <color name="dack_green1">#35374B</color>
+    <color name="dack_green2">#344955</color>
+
+
+</resources>

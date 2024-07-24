@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ConnectMQTT" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- res/color/fab_pressed_color.xml -->
+        <!-- res/color/fab_pressed_color.xml -->
+<!--        <selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--            <item android:color="#FF0000" android:state_pressed="true"/> &lt;!&ndash; Màu đỏ khi nhấn &ndash;&gt;-->
+<!--            <item android:color="#00FF00"/> &lt;!&ndash; Màu xanh mặc định &ndash;&gt;-->
+<!--        </selector>-->
+
+
+    </style>
+
+    <style name="Theme.ConnectMQTT" parent="Base.Theme.ConnectMQTT" />
+</resources>
